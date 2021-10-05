@@ -1,0 +1,6 @@
+# python-algor
+research insert and delete with python
+SIMPLE ALGORITHM FOR INSERTION OPERATION
+SIMPLE ALGORITHM FOR SEARCH OPERATION
+SIMPLE ALGORITHM FOR DELETE OPERATION
+all combined together
